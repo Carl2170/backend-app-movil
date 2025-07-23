@@ -1,0 +1,28 @@
+# Entorno virtual de Python
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+
+# Archivos temporales o compilados
+*.log
+*.sqlite3
+*.db
+*.bak
+
+# Configuración IDE (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Archivos de entorno y secretos
+.env
+.env.local
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Para despliegue en Render
+build/
+*.tar

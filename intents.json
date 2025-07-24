@@ -1,0 +1,198 @@
+{
+  "intents": [
+    {
+      "tag": "listar_cuentas_naturales",
+      "patterns": [
+        "listar cuentas naturales",
+        "mostrar cuentas naturales",
+        "quiero ver cuentas naturales"
+      ]
+    },
+    {
+      "tag": "listar_cuentas_contables",
+      "patterns": [
+        "listar cuentas contables",
+        "mostrar cuentas contables",
+        "quiero ver cuentas contables"
+      ]
+    },
+    {
+      "tag": "mostrar_balance_general",
+      "patterns": [
+        "mostrar balance general",
+        "ver balance general",
+        "quiero ver el balance general"
+      ]
+    },
+    {
+      "tag": "ver_historial_transacciones",
+      "patterns": [
+        "ver historial de transacciones",
+        "mostrar historial de transacciones"
+      ]
+    },
+    {
+      "tag": "buscar_cuenta",
+      "patterns": [
+        "buscar cuenta",
+        "quiero buscar una cuenta",
+        "busca cuenta"
+      ]
+    },
+    {
+      "tag": "filtrar_cuentas_por_tipo",
+      "patterns": [
+        "filtrar cuentas por tipo",
+        "filtrar cuentas por tipo activo",
+        "filtrar cuentas por tipo pasivo"
+      ]
+    },
+    {
+      "tag": "crear_cuenta_contable",
+      "patterns": [
+        "crear nueva cuenta contable",
+        "crear cuenta",
+        "nueva cuenta",
+        "añadir cuenta",
+        "registrar cuenta",
+        "agregar cuenta"
+      ]
+    },
+    {
+      "tag": "eliminar_cuenta",
+      "patterns": [
+        "eliminar cuenta",
+        "borrar cuenta",
+        "quitar cuenta",
+        "remover cuenta",
+        "desactivar cuenta"
+      ]
+    },
+    {
+      "tag": "editar_cuenta",
+      "patterns": [
+        "editar cuenta",
+        "modificar cuenta",
+        "cambiar datos de cuenta"
+      ]
+    },
+    {
+      "tag": "sincronizar_servidor",
+      "patterns": [
+        "sincronizar con servidor",
+        "actualizar datos",
+        "sincronizar datos"
+      ]
+    },
+    {
+      "tag": "exportar_excel",
+      "patterns": [
+        "exportar cuentas a excel",
+        "exportar informe",
+        "descargar informe en excel"
+      ]
+    },
+    {
+      "tag": "descargar_informe_pdf",
+      "patterns": [
+        "descargar informe en pdf",
+        "exportar informe en pdf",
+        "descargar reporte"
+      ]
+    },
+    {
+      "tag": "mostrar_grafico_ingresos",
+      "patterns": [
+        "mostrar gráfico de ingresos",
+        "mostrar gráfica de ingresos"
+      ]
+    },
+    {
+      "tag": "mostrar_grafico_cuentas_activas",
+      "patterns": [
+        "mostrar gráfica de cuentas activas",
+        "mostrar gráfico de cuentas activas"
+      ]
+    },
+    {
+      "tag": "resumen_financiero_mensual",
+      "patterns": [
+        "ver resumen financiero del mes",
+        "mostrar resumen financiero mensual"
+      ]
+    },
+    {
+      "tag": "comparar_ingresos_egresos",
+      "patterns": [
+        "comparar ingresos y egresos",
+        "mostrar comparación de ingresos y egresos"
+      ]
+    },
+    {
+      "tag": "predecir_tendencia_ingresos",
+      "patterns": [
+        "predecir tendencia de ingresos",
+        "mostrar predicción de ingresos"
+      ]
+    },
+    {
+      "tag": "recomendar_ajustes",
+      "patterns": [
+        "recomendar ajustes financieros",
+        "sugerir ajustes"
+      ]
+    },
+    {
+      "tag": "analizar_cuentas_inusuales",
+      "patterns": [
+        "analizar cuentas inusuales",
+        "mostrar cuentas sospechosas"
+      ]
+    },
+    {
+      "tag": "optimizar_balance",
+      "patterns": [
+        "sugerir optimización del balance",
+        "optimizar balance"
+      ]
+    },
+    {
+      "tag": "limpiar_pantalla",
+      "patterns": [
+        "limpiar pantalla",
+        "borrar pantalla"
+      ]
+    },
+    {
+      "tag": "volver_inicio",
+      "patterns": [
+        "volver al inicio",
+        "ir a inicio"
+      ]
+    },
+    {
+      "tag": "cerrar_sesion",
+      "patterns": [
+        "cerrar sesión",
+        "salir de la app",
+        "cerrar la app"
+      ]
+    },
+    {
+      "tag": "mostrar_ayuda",
+      "patterns": [
+        "ayuda",
+        "necesito ayuda",
+        "mostrar ayuda"
+      ]
+    },
+    {
+      "tag": "activar_modo_oscuro",
+      "patterns": [
+        "activar modo oscuro",
+        "activar tema oscuro",
+        "modo nocturno"
+      ]
+    }
+  ]
+}
